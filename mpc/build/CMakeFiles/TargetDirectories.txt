@@ -1,3 +1,0 @@
-/home/efy/mpc/build/CMakeFiles/mpc_run.dir
-/home/efy/mpc/build/CMakeFiles/edit_cache.dir
-/home/efy/mpc/build/CMakeFiles/rebuild_cache.dir
