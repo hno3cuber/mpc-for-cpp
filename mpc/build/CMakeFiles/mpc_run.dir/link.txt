@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mpc_run.dir/src/Main.cpp.o CMakeFiles/mpc_run.dir/src/MPCCal.cpp.o CMakeFiles/mpc_run.dir/src/GetRefPath.cpp.o -o mpc_run  -Wl,-rpath,/usr/local/lib /usr/local/lib/libOsqpEigen.so.0.11.0 /usr/lib/x86_64-linux-gnu/libpython3.10.so /usr/local/lib/libosqp.so 
