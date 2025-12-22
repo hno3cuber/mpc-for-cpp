@@ -1,9 +1,9 @@
 #pragma once
 
-constexpr auto N = 20; //Ô¤²â²½³¤
+constexpr auto N = 20; //é¢„æµ‹æ­¥é•¿
 
-constexpr auto STANUM = 6; //×´Ì¬ÊıÁ¿
-constexpr auto CONNUM = 2; //ÊäÈëÊıÁ¿
+constexpr auto STANUM = 6; //çŠ¶æ€æ•°é‡
+constexpr auto CONNUM = 2; //è¾“å…¥æ•°é‡
 
 constexpr auto DT = 0.01;
 constexpr auto DTT = DT * DT;
@@ -11,4 +11,5 @@ constexpr auto DTT = DT * DT;
 constexpr auto COLS = 803;
 constexpr auto RAWS = 2;
 
-constexpr auto CONSROWNUM = N * 1; //Ô¼ÊøÊıÁ¿
+
+constexpr auto CONSROWNUM = N; //çº¦æŸæ•°é‡
